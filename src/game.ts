@@ -51,7 +51,7 @@ cube.addComponent(
 )
 
 let avocado = new Entity()
-avocado.addComponent(new GLTFShape('models/avocado/avocado.gltf'))
+avocado.addComponent(new GLTFShape('models/avocado1/avocado.gltf'))
 avocado.addComponent(
   new Transform({
     position: new Vector3(3, 1, 3),
